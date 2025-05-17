@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>🧰 Herramientas OSINT</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; color: #333; }
+    h1 { color: #1f4e79; }
+    h2 { color: #2a2a2a; border-bottom: 1px solid #ccc; padding-bottom: 5px; margin-top: 30px; }
+    ul { list-style: none; padding-left: 0; }
+    li { margin-bottom: 10px; }
+    a { color: #0066cc; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .container { max-width: 800px; margin: auto; background-color: #fff; padding: 20px; border-radius: 10px; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🧰 Herramientas OSINT</h1>
+
+    <h2>🔍 Personas</h2>
+    <ul>
+      <li><a href="https://pipl.com/" target="_blank">Pipl</a> - Búsqueda de personas por nombre o correo.</li>
+      <li><a href="https://namechk.com/" target="_blank">Namechk</a> - Comprobación de alias en redes.</li>
+      <li><a href="https://www.social-searcher.com/" target="_blank">Social Searcher</a> - Búsqueda pública en redes sociales.</li>
+    </ul>
+
+    <h2>📱 Redes Sociales</h2>
+    <ul>
+      <li><a href="https://www.whopostedwhat.com/" target="_blank">WhoPostedWhat</a></li>
+      <li><a href="https://github.com/twintproject/twint" target="_blank">Twint</a></li>
+      <li><a href="https://instaloader.github.io/" target="_blank">InstaLoader</a></li>
+    </ul>
+
+    <h2>🖼️ Imágenes y Metadatos</h2>
+    <ul>
+      <li><a href="https://tineye.com/" target="_blank">TinEye</a></li>
+      <li><a href="https://exiftool.org/" target="_blank">ExifTool</a></li>
+      <li><a href="https://www.invid-project.eu/tools/invid-verification-plugin/" target="_blank">InVID Plugin</a></li>
+    </ul>
+
+    <h2>🌐 Otros</h2>
+    <ul>
+      <li><a href="https://www.shodan.io/" target="_blank">Shodan</a></li>
+      <li><a href="https://haveibeenpwned.com/" target="_blank">HaveIBeenPwned</a></li>
+      <li><a href="https://intelx.io/" target="_blank">IntelX</a></li>
+    </ul>
+  </div>
+</body>
+</html>
